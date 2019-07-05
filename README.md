@@ -6,7 +6,7 @@
 
 FEATURES PLACEHOLDER
 
-// - starts program
+- starts program
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
